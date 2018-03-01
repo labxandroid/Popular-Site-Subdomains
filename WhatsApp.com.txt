@@ -10,3 +10,4 @@ translate.whatsapp.com
 v.whatsapp.com
 web.whatsapp.com
 whatsapp.com
+api.whatsapp.com
